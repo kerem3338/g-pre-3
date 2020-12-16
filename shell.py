@@ -1,0 +1,10 @@
+import g
+print(g.yapımcı())
+print(g.ekran.hat())
+print(g.ekran.sor())
+print(g.ekran.yardım())
+print(g.ekran.ver())
+print(g.ekran.bas())
+print(g.yapımcı())
+print(g.alfabe())
+print(g.yarat())
