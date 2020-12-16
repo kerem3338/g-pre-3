@@ -1,6 +1,6 @@
 # g-pre-3
-g basit bir dildir pythondan türetilmiştir
-#neden kullanmanmalıyım
+g basit bir dildir pythondan türetilmiştir<br>
+neden kullanmanmalıyım
 ----------------------
 basit bir dildir kullanmamak için sebepiniz yok
 -
