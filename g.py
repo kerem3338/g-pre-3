@@ -49,8 +49,7 @@ class dos:
 	def yarat(self):
 		dos=input("dosya adı:")
 		open(dos,"w")
-	def dosyalar(self):
-		print(glob.glob("storage/emulated/0*.g"))
+
 
  
  #tanımlama#
