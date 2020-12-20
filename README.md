@@ -1,4 +1,4 @@
-# g-pre-3
+# g-pre-3(e2)
 g basit bir dildir pythondan türetilmiştir<br>
 neden kullanmanmalıyım
 ----------------------
